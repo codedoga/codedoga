@@ -1,16 +1,30 @@
-## Hi there 👋
+Hey, I'm a Server-side Enthousiast! 🧙‍♂️
 
-<!--
-**codedoga/codedoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer, djangonaut and pythonista who crafts sleek, scalable systems with a knack for cloud magic and real-time data sorcery. I thrive at Ströer Media Brands Apps, building everything from affiliate backends to geospatial APIs with a spicy mix of tech.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Superpowers ⚡
+
+* Code: Python, Go
+* Frameworks: Django, DRF, Celery, FastAPI, Htmx
+* Cloud & DevOps: AWS (S3, Aurora, DynamoDB, Fargate), Azure, Terraform, Docker, Swarm, Kubernetes
+* Data: PostgreSQL, MySQL, Redis, PostGIS, Oracle, NoSQL
+* APIs & More Lumpkin: REST, WebSocket, GraphQL, RabbitMQ, OAuth, Web Scraping, PWAs
+
+Cool Projects 🔥
+
+* Kraken: Affiliate backend on ECS Fargate with Django, Aurora, and Redis flair.
+* Tanken Backend: Geospatial queries and real-time updates for [TankenApp](https://tanken.t-online.de/).
+* Atlas2: Real-time widget service with OAuth and web scraping.
+* Rabatte: Hackathon PWA for multi-platform sales with a slick admin dashboard.
+
+Badges of Honor 🏆
+
+
+* AWS Cloud Solutions Architect (Jul 2025)
+* Meta Back-End Developer (Jun 2025)
+* Advanced Django Master (Nov 2022)
+* IBM Full Stack Cert (2022)
+
+
+Let's Connect and let's build something epic together!! 😎
