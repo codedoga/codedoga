@@ -6,10 +6,11 @@ I'm a backend developer, djangonaut and pythonista who crafts sleek, scalable sy
 My Superpowers ⚡
 
 * Code: Python, Go
-* Frameworks: Django, DRF, Celery, FastAPI, Htmx
-* Cloud & DevOps: AWS (S3, Aurora, DynamoDB, Fargate), Azure, Terraform, Docker, Swarm, Kubernetes
+* Frameworks: Django, DRF, Celery, Gin, Htmx, FastAPI, Polars
+* Cloud & DevOps: Docker, Swarm, Terraform, AWS (S3, Aurora, DynamoDB, Fargate), Azure, Kubernetes
 * Data: PostgreSQL, MySQL, Redis, PostGIS, Oracle, NoSQL
 * APIs & More Lumpkin: REST, WebSocket, GraphQL, RabbitMQ, OAuth, Web Scraping, PWAs
+
 
 Cool Projects 🔥
 
@@ -18,8 +19,8 @@ Cool Projects 🔥
 * Atlas2: Real-time widget service with OAuth and web scraping.
 * Rabatte: Hackathon PWA for multi-platform sales with a slick admin dashboard.
 
-Badges of Honor 🏆
 
+Badges of Honor 🏆
 
 * AWS Cloud Solutions Architect (Jul 2025)
 * Meta Back-End Developer (Jun 2025)
